@@ -1,0 +1,2 @@
+# Uber-Data-Analysis
+I've used data set from github. I'll leave the link below. There are almost 800,000 data here. First, review the data and then add some efficient column for analization. Then, analyze the Date of Month (DoM) and sorting them. Then plot the weekday and hour and lastly plot the data in the New York state map. Data set: https://github.com/fivethirtyeight/uber-tlc-foil-response/blob/master/uber-trip-data/uber-raw-data-apr14.csv 
